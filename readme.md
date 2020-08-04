@@ -15,4 +15,4 @@ Swoją przygode z kodem zaczynałem gdy miałem 13 lat i była to nauka metodą 
 * JavaScript
 * jQuery
 
-<img align="right" src="code.png">
+<img align="right" src="https://raw.githubusercontent.com/L1su/L1su/master/code.png">
